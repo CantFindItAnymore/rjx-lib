@@ -1,6 +1,11 @@
 {
-  "private": true,
+  "private": false,
   "name": "rjx-lib",
+  "description": "基于react，使用dumi构建的组件库"  ,
+  "homepage": "https://rjx-lib-1ls5.vercel.app/" ,
+  "repository": "https://github.com/CantFindItAnymore/rjx-lib"  ,
+  "license": "MIT"  ,
+  "author":  "rj" ,
   "version": "1.0.0",
   "scripts": {
     "start": "dumi dev",
